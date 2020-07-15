@@ -2309,16 +2309,16 @@
         },
         {
             "name": "spiral/roadrunner-laravel",
-            "version": "v3.4.0",
+            "version": "v3.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spiral/roadrunner-laravel.git",
-                "reference": "983a6a9baa0072980604a4060fe86463ebe0cf4d"
+                "reference": "4f3d2530b7e51ced9a4fd7473c5a8312054ea4e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spiral/roadrunner-laravel/zipball/983a6a9baa0072980604a4060fe86463ebe0cf4d",
-                "reference": "983a6a9baa0072980604a4060fe86463ebe0cf4d",
+                "url": "https://api.github.com/repos/spiral/roadrunner-laravel/zipball/4f3d2530b7e51ced9a4fd7473c5a8312054ea4e7",
+                "reference": "4f3d2530b7e51ced9a4fd7473c5a8312054ea4e7",
                 "shasum": ""
             },
             "require": {
@@ -2379,7 +2379,7 @@
                 "laravel",
                 "roadrunner"
             ],
-            "time": "2020-05-22T18:35:57+00:00"
+            "time": "2020-07-10T11:07:07+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
